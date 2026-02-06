@@ -2,3 +2,4 @@
 
 This is my first GitHub repository. I'm learning how to use Git and GitHub!
 
+Learning is fun. Can't wait to learn more.
